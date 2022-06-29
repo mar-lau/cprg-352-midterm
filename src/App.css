@@ -43,3 +43,13 @@ ul {
   margin-bottom: 30px;
   padding: 15px 0px;
 }
+
+.row {
+  width: 100%;
+  margin-left: 0px !important;
+}
+
+.card-body {
+  width: 25%;
+  margin: auto;
+}
